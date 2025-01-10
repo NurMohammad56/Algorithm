@@ -9,3 +9,4 @@ function addBorder(picture) {
   return picture;
 }
 console.log(addBorder(["abc", "ded"]));
+// test
